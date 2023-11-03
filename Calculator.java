@@ -6,4 +6,7 @@ public class Calcuator {
 	public double addition(double a, double b){
 		return b + a;
 	}
+	public double subtraction(double a, double b){
+		return a - b;
+	}
 }
